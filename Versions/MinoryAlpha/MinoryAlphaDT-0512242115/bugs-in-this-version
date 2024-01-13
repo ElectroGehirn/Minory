@@ -1,0 +1,14 @@
+Login window is resizeable (was left in from developing a rewrite of the login screen)
+
+Window Size bugs, the welcome image and the login screen image is outside the bounds of the JFrame (fixed in later versions they are intended for releases)
+
+A very dumb write issue in the first welcome screen (fixed soon)
+
+Server connection is spammable (needs a client side prevention, and a server side prevention)
+
+Textfield in minorysite1 is duplicated if you spam the site icon (Fix will be later on)
+
+Minorysite1 doesnt turn off if you switch to the home site (Fix will be later on)
+
+All other bugs please in the Issues tab
+~ElectroGehirn
